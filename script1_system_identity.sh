@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 1: System Identity Report
-# Author: Om Sinha | Reg: 24BCY10257
+# Author: Manav Batra | Reg: 24BCE10235
 # Course: Open Source Software | Slot: F11
 # Description: Displays a welcome-screen style summary of the Linux system
 # =============================================================================
