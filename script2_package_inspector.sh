@@ -2,7 +2,7 @@
 # =============================================================================
 # Script 2: FOSS Package Inspector
 # Author: Manav Batra | Reg: 24BCE10235
-# Course: Open Source Software | Slot: F11
+# Course: Open Source Software | Slot: E11
 # Description: Checks if Git is installed, shows version/licence info,
 #              and prints a philosophy note using a case statement
 # =============================================================================
