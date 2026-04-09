@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 2: FOSS Package Inspector
-# Author: Om Sinha | Reg: 24BCY10257
+# Author: Manav Batra | Reg: 24BCE10235
 # Course: Open Source Software | Slot: F11
 # Description: Checks if Git is installed, shows version/licence info,
 #              and prints a philosophy note using a case statement
