@@ -9,8 +9,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | OM SINHA |
-| **Registration Number** | [24BCY10257 |
+| **Student Name** | Manav Batra |
+| **Registration Number** | [24BCE10235 |
 | **Slot** | F11 |
 | **Chosen Software** | Git (Version Control · GPL v2) |
 | **Date of Submission** | 29 03 2026 |
