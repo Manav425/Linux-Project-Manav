@@ -2,9 +2,9 @@
 # =============================================================================
 # Script 1: System Identity Report
 # Author: Manav Batra | Reg: 24BCE10235
-# Course: Open Source Software | Slot: F11
+# Course: Open Source Software | Slot: E11
 # Description: Displays a welcome-screen style summary of the Linux system
-# =============================================================================
+# ============================================================================
 
 # --- Variables ---
 STUDENT_NAME="Manav Batra"
