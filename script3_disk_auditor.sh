@@ -2,7 +2,7 @@
 # =============================================================================
 # Script 3: Disk and Permission Auditor
 # Author: Manav Batra | Reg: 24BCE10235
-# Course: Open Source Software | Slot: F11
+# Course: Open Source Software | Slot: E11
 # Description: Loops through key system directories and reports permissions,
 #              owner, group, and disk usage. Also audits Git config files.
 # =============================================================================
